@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: someproddb:3306/prodDb
+    username:
+    password:
+frontend:
+  redirect: https://mywebiste.com
